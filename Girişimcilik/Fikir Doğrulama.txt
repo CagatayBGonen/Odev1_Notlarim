@@ -1,0 +1,17 @@
+## Key Points
+
+- Fikir, çözmeye çalıştığınız problemin 1-2 cümleyle ifadesi.
+- Fikir problemden çıkar.
+    - Kimin hangi problemini çözüyorsun?
+    - **Oyun:** Can sıkıntısı problemi, Sosyalleşme problemi, iyi hikaye dinleme-ulaşma problemi
+- 5 Adımda fikir doğrulama:
+    - Problem Tanımı
+        - Problem nedir ve nasıl tanımlanır?
+            - kitle ve problemin tanımlanması,
+    - Problemin Doğrulanması
+        - Problemler gerçekten problem mi?
+        - Başkaları da bu problemi yaşıyor mu?
+        - Sahaya çalışması
+    - Çözümün Tanımı
+    - Çözümün Doğrulanması
+    - Çözüm Problem Uyumu
