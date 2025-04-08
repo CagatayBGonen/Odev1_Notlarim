@@ -15,3 +15,39 @@
     - Çözümün Tanımı
     - Çözümün Doğrulanması
     - Çözüm Problem Uyumu
+
+**Çözüm Tanımı aşaması:**
+
+- Ekip, kurucu ekip, öncü ekip
+    - Ekipte bulunması gereken 3H/3Y:
+        - Hipster/yaratıcı: Yaratıcılığı güçlü olan ekip üyesi
+        - Hustler/Yırtıcı: İş kovalayan, satış yapan
+        - Hacker/Yapıcı: Kodu yazan, geliştiren
+    - Daha çok kişi ya da daha az da olabilir. *Önemli olan bu özelliklerin olması.*
+    - Ekip olmanın avantajı ve önemi bu özelliklere sahip olmak. Bu tek bir kişide de olabilir daha çok büyük bir grupta da.
+- Yalnız kovboy olmanın bir manası yok.
+- Oyun dünyasında tek başına daha fazla olan bir durum.
+- Tek kişi örnekleri az,
+- Amaç: Yaptığın işe odaklanmak ve farklı yetkinliklere sahip insanaları ekine dahil etmek.
+- Hipster ve hacker başta gerekiyor. Hustler başta gerekmeye bilir. Bu durum oyun sektörü için.
+    - E-ticaret te hustler gerekir örnek olarak.
+
+Kullanılabilir çözüm geliştirmek.
+
+- Çözümün Tanımı ve doğrulaması iç içe geçiyor.
+
+**Çözümün Doğrulanması:**
+
+- MTP(Minimum Testable Product)
+    - En kolay test edilebilir çözüm
+- MVP(Minimum Viable Product)
+    - En kolay görünür kılınan çözüm
+    - MPG(Minimum Playable Game) oyun dünyasındaki karşılığı olabilir.
+- prototipleminin önemine değinildi.
+
+<aside>
+💡
+
+“İlk çıktığın üründe kendine ne kadar güveniyorsan, o kadar zaman kaybetmişsindir.”
+
+</aside>
