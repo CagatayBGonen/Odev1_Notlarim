@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobs Card Battle</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Jobs Card Battle</h1>
+
+        <!-- Game Status -->
+        <div class="scoreboard">
+            <div class="player-lives">
+                <p>Player Lives: <span id="player-lives">2</span></p>
+                <p>Player AP: <span id="player-ap">4</span></p>
+            </div>
+            <div class="opponent-lives">
+                <p>Opponent Lives: <span id="opponent-lives">2</span></p>
+            </div>
+        </div>
+
+        <!-- Play Area -->
+        <div class="play-area">
+            <!-- Player Deck (Far left) -->
+            <div class="player-deck">
+                <h2>Your Cards</h2>
+                <div id="player-deck" class="card-container">
+                    <!-- Player's available cards go here -->
+                </div>
+            </div>
+
+            <!-- Battlefield (Center) -->
+            <div class="battlefield">
+                <h2>Battlefield</h2>
+                <div id="battlefield" class="card-container">
+                    <!-- Deployed player and opponent cards will appear here -->
+                </div>
+            </div>
+
+            <!-- Opponent Deck (Far right) -->
+            <div class="opponent-deck">
+                <h2>Opponent Cards</h2>
+                <div id="opponent-deck" class="card-container">
+                    <!-- Opponent's cards will be deployed here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Control Panel -->
+        <div class="controls">
+            <button id="start-game">Start Game</button>
+            <button id="attack" style="display:none;">Attack</button>
+			<button id="end-turn" style="display:none;">End Turn</button> <!-- New End Turn Button -->
+        </div>
+
+        <!-- Win/Loss Screen -->
+        <div id="game-end" style="display:none;">
+            <h2 id="game-result"></h2>
+            <button id="restart-game">Restart Game</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
